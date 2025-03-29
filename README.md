@@ -55,7 +55,8 @@ https://github.com/Elamaran37/21MUX/blob/ae6897f7dc332caac992be64121474fb61678ef
 ## Output
 
 ### 1. Transient Analysis Output
-https://github.com/Elamaran37/21MUX/blob/c864485029ec6ac754609ff19d43f9bb1691d4ba/Screenshot%202025-03-19%20102736.png
+![image](https://github.com/user-attachments/assets/9d6b03c7-2947-4c74-93fb-319453885809)
+
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
